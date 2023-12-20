@@ -1,0 +1,48 @@
+.beginning {
+    font-size: large;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+/* Class for navigation links */
+.common.nav a {
+    color: black; /* Change link color */
+    text-decoration: none; /* Remove underline */
+    padding: 0 10px; /* Add some space around links */
+}
+
+.header {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black; /* Change header text color */
+}
+
+.head {
+    /* This is assuming 'head' was intended to style a different element */
+    font-size: large;
+    font-family: 'Nunito', sans-serif; /* Replace 'Nunito' with your desired font */
+    color: black; /* Change text color */
+}
+
+.listhead {
+    font-family: 'Nunito', sans-serif; /* Replace 'Nunito' with your desired font */
+    font-size: large;
+    color: black; /* Change text color */
+}
+
+.list {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.link {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mywords {
+    font-size: small;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
